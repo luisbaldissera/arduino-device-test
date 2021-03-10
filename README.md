@@ -27,5 +27,5 @@ dw 13 high
 # Set pin 3 as output
 pm 3 out
 # use analogWrite(13,152)
-dw 13 152
+aw 13 152
 ```
